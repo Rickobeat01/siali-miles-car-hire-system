@@ -1,0 +1,10 @@
+assets/.gitkeep
+database/.gitkeep
+ui/.gitkeep
+models/.gitkeep
+services/.gitkeep
+utils/.gitkeep
+reports/.gitkeep
+backups/.gitkeep
+tests/.gitkeep
+docs/.gitkeep
