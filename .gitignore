@@ -1,0 +1,25 @@
+# Python
+pycache/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Database
+database/carhire.db
+
+# Reports
+reports/*.pdf
+reports/*.xlsx
+
+# Backup files
+backups/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
